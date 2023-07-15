@@ -28,7 +28,7 @@ Image compression &amp; Denoise Image with SVD
 - Eigenvalue lamda might be negative. The direction of new vector is reversed but still on the same line
 - We might find many eigenvectors of matrix A
 - All vector with the same direction are actually eigenvector of matrix A
-- ![eigenvalue2](https://drive.google.com/uc?export=view&id=1pkJiIL5cT2tYnG5e14ZM72md48aok1eA)
+- ![eigenvalue2](https://drive.google.com/uc?export=view&id=16qb3EkNAx1UdWJ9MQ5bJZCAV-Y18oCbv)
 ## Combination of Eigenventor & Eigenvalue
 ![combination1](https://drive.google.com/uc?export=view&id=1vRLc39AjlANl-1WlMHuQWu3S5dyjplj-)
 ![combination2](https://drive.google.com/uc?export=view&id=1gPSlSm9cIHk2NJGPqYw83neqQM2X3lni)
