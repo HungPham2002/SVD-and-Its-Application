@@ -33,5 +33,20 @@ Image compression &amp; Denoise Image with SVD
 ![combination1](https://drive.google.com/uc?export=view&id=1vRLc39AjlANl-1WlMHuQWu3S5dyjplj-)
 ![combination2](https://drive.google.com/uc?export=view&id=1gPSlSm9cIHk2NJGPqYw83neqQM2X3lni)
 ![combination3](https://drive.google.com/uc?export=view&id=1ZyyNLPIWuU65NczQiL5yHc_GZuX7MZbh)
-# Singular Value Decomposition
-
+## Singular Value Decomposition
+Since mathematics is just the art of assigning different names to the same concept, SVD is nothing more than decomposing vectors onto orthogonal axes.
+- ![decompose](https://drive.google.com/uc?export=view&id=1gWGEsvZ0nzjBj9D65XSERkrHAVO1pE4o)
+- Support u and v are vectors
+  + Vector u decomposed into orthogonal components w1 and w2
+  + Want to decompose u as: u = w1 + w2
+- w1 is parallel to vector v and w1 is perpendicular/orthogonal to w2
+- The vector component w1 is also called the projection of vector u onto vector v:
+  + w1 = proj(v)(u) (projection of vector u onto vector v).
+  + w2 = u - w1
+### Decomposing a Vector into two Orthogonal Vectors
+- ![decompose1](https://drive.google.com/uc?export=view&id=19ATaBgb3EnvE9HOlMRE_JYwWo-X-MJP6)
+### Vector Projection
+- ![decompose2](https://drive.google.com/uc?export=view&id=1OKdWmbqr4IQBqNL0QpoAXbyITLDWu8UJ)
+### Extend this conclusion for handling a matrix (a bunch of vectors)
+- ![decompose3](https://drive.google.com/uc?export=view&id=1hq8w4HS70kljgc9JOVBewA-IPbfZniBo)
+### Recall Vector Projection
