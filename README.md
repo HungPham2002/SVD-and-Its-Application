@@ -50,3 +50,13 @@ Since mathematics is just the art of assigning different names to the same conce
 ### Extend this conclusion for handling a matrix (a bunch of vectors)
 - ![decompose3](https://drive.google.com/uc?export=view&id=1hq8w4HS70kljgc9JOVBewA-IPbfZniBo)
 ### Recall Vector Projection
+- ![recall1](https://drive.google.com/uc?export=view&id=1EH6UZRPWenCGwrjG0WY8j1QuEn77buQ7)
+- ![recall2](https://drive.google.com/uc?export=view&id=1MHEBlBNnjWhbvYdWAOipuKBaBxdVvXeE)
+- ![recall3](https://drive.google.com/uc?export=view&id=1LlLrq4gFY3pKRKXSfI6kMNaI7vdYt4eP)
+- Extend to more than 1 vectors.
+- ![recall4](https://drive.google.com/uc?export=view&id=1AZUfC5WdT4Je-h1_jJVdbOzFcO16ZOcI)
+- Generalize to any number of points and dimensions
+- ![recall5](https://drive.google.com/uc?export=view&id=1GrOo9VaNc724HjUOMX1gU9C0RgTPwKAT)
+- ![recall 6](https://drive.google.com/uc?export=view&id=1s9M_gWTGGlpDFRoH16F7h_xmnD_e2Xhp)
+- Any set of vectors (A) can be expressed in terms of their lengths of projections (S) on some set of orthogonal axes (V).
+- ![recall6](https://drive.google.com/uc?export=view&id=1PC87haQoTb33YJomDD8Ynn8Tg1IpiHy)
