@@ -6,8 +6,7 @@ Image compression &amp; Denoise Image with SVD
 - Explain Eigenvalue
 - Combination of Eigenvector & Eigenvalue
 - Explain SVD
-- SVD's Application
-# References: AI Vietnam
+# References: AI Viet Nam
 ## Vector:
 - Vector is an object has both a magnitude and a direction.
 - Vector is a matrix with single column or single row.
