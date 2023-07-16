@@ -72,3 +72,8 @@ Since mathematics is just the art of assigning different names to the same conce
 - Dividing each column vector by its magnitude, but in matrix form
   + ![Sdecompose2](https://drive.google.com/uc?export=view&id=1drf9N6FeOi74hIK3a2-755o_vbotSm0Z)
   + ![Sdecompose3](https://drive.google.com/uc?export=view&id=1mLdiSuvnYoxzmI-QRpV6AjJHMCRQdKmC)
+### S - Explanation
+![WhyS](https://drive.google.com/uc?export=view&id=1DFqpXS651c0ScSpuFF5qbVzmxEx_iYqh)
+### Sigma - Explanation
+- Sigma determines most points (decomposed vector) are closer to v1 or v2.
+![WhySigma](https://drive.google.com/uc?export=view&id=1uw97ldQHdoPdSBE4ZSVuo4taVEsGauLb)
