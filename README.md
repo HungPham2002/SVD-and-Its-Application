@@ -77,3 +77,7 @@ Since mathematics is just the art of assigning different names to the same conce
 ### Sigma - Explanation
 - Sigma determines most points (decomposed vector) are closer to v1 or v2.
 ![WhySigma](https://drive.google.com/uc?export=view&id=1uw97ldQHdoPdSBE4ZSVuo4taVEsGauLb)
+## Another Approaching SVD (mapping to Eigenvector / Eigenvalue)
+- ![AnotherApproaching](https://drive.google.com/uc?export=view&id=1VioU57h8CGH4zxJZeAqhptEItuJgJKqc)
+- For Example:
+- ![Example](https://drive.google.com/uc?export=view&id=1KQ3cG8zy6lVRVxfDCYeJPCmmTa_0ABTw)
