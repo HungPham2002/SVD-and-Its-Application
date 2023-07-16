@@ -59,4 +59,16 @@ Since mathematics is just the art of assigning different names to the same conce
 - ![recall5](https://drive.google.com/uc?export=view&id=1GrOo9VaNc724HjUOMX1gU9C0RgTPwKAT)
 - ![recall 6](https://drive.google.com/uc?export=view&id=1s9M_gWTGGlpDFRoH16F7h_xmnD_e2Xhp)
 - Any set of vectors (A) can be expressed in terms of their lengths of projections (S) on some set of orthogonal axes (V).
-- ![recall6](https://drive.google.com/uc?export=view&id=1PC87haQoTb33YJomDD8Ynn8Tg1IpiHy)
+- ![recall6](https://drive.google.com/uc?export=view&id=1PC87haQoTb33YJomDD8Ynn8Tg1IpiHyt)
+### We are here!
+![wearehere](https://drive.google.com/uc?export=view&id=1jPybrE2IZG1WgrqVfsObdPv_VNy58ZNN)
+### Convention SVD
+![ConventionSVD](https://drive.google.com/uc?export=view&id=1Mx5fTM013FSY_dR4-Z0diMB68gA1vjac)
+### Keep going on decomposing S
+![S](https://drive.google.com/uc?export=view&id=1iotBOirO4cnlMpEB4MiHuA3aJUNcYckD)
+###
+![Sdecompose1](https://drive.google.com/uc?export=view&id=1SkFzDqnx5iI3ChqBr0ancZneqF7QHwJM)
+- Normalize these comlumn vectors to make them of unit length
+- Dividing each column vector by its magnitude, but in matrix form
+  + ![Sdecompose2](https://drive.google.com/uc?export=view&id=1drf9N6FeOi74hIK3a2-755o_vbotSm0Z)
+  + ![Sdecompose3](https://drive.google.com/uc?export=view&id=1mLdiSuvnYoxzmI-QRpV6AjJHMCRQdKmC)
